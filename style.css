@@ -1,0 +1,86 @@
+@charset "utf-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    min-height: 269px;
+}
+h1{
+    font-family: "Passion One", sans-serif;
+    font-weight: 700;
+    font-style:normal;
+    font-size: 8.5em;
+    text-transform:unset;
+
+    padding-top: 50px ;
+}
+h1 > a{
+    text-decoration: none;
+    color: white;
+}
+p{
+    text-align: center;
+    font-family: verdana, sans-serif;
+    padding-bottom: 50px;
+}
+p > a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+    font-family: verdana, sans-serif;
+    font-weight: bold;
+}
+p > a:hover{
+    text-decoration: underline;
+}
+#strofe_1{
+    font-family: "Sriracha", cursive;
+    font-weight: 400;
+    font-style: normal;;
+    font-size: 3em;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+}
+footer > a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+
+
+/*
+.passion-one-regular {
+  font-family: "Passion One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.passion-one-bold {
+  font-family: "Passion One", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.passion-one-black {
+  font-family: "Passion One", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+}
+
+.sriracha-regular {
+  font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
+*/
